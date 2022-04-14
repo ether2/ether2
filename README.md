@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ether2
-- 👀 I’m interested in pursuing devops and deploying infrastructure as code...
-- 🌱 I’m currently learning python, azure ...
+- 👀 I’m interested DevOp practices and tools, resilient infrastructure-as-code, containerization and everything else.
+- 🌱 I’m currently studying for AZ-400, Designing and Implementing Microsoft DevOps Solutions. Continuing each day to improve my Python skills.
 - 📫 How to reach me ... grant.mcomie@nwpacificlab.com
 
 <!---
