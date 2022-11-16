@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ether2
-- 👀 I’m interested in DevOp practices and tools, engineering infrastructure-as-code, containerization and everything else.
-- 🌱 I’m currently studying for AZ-400, Designing and Implementing Microsoft DevOps Solutions. Continuing each day to improve my Python skills and grow knowledge.
+- 👀 Passionate about DevOps culture, practices and tools. Engineering robust and resilient infrastructure-as-code. Leveraging container orchestration. Empowering people to do their best work and automating away toil.
+- 🌱 Background in networking, hyperconverged infrastructure, postcolonial English Literature.
 - 📫 How to reach me: Twitter - @Grant_McOmie
 
 [![Ether2's's GitHub stats](https://github-readme-stats.vercel.app/api?username=ether2&hide=prs,issues,contribs&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
